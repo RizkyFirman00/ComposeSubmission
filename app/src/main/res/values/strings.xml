@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeSubmission</string>
+    <string name="app_name_space">Compose Submission</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_hero">Cari pahlawanmu</string>
+    <string name="about">Tentang Profile</string>
+    <string name="add_items">Menambah Items</string>
+</resources>
